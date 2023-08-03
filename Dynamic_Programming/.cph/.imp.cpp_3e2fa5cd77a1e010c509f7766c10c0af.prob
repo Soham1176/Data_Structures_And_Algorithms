@@ -1,0 +1,1 @@
+{"name":"Local: imp","url":"d:\\Coding\\Cpp\\Dynamic Programming\\imp.cpp","tests":[{"id":1681920660058,"input":"4\n23\n0\n28\n33","output":"16\n25\n11\n11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\Cpp\\Dynamic Programming\\imp.cpp","group":"local","local":true}
